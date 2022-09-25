@@ -1,11 +1,44 @@
 {
-  "posts": [
+  "alimentos": [
     {
-      "id": 1,
-      "title": "hello"
+      "numeroProducto": 4096,
+      "numeroRegistro": "123456789012345",
+      "estado": "Vigente",
+      "fechaVencimiento":"10/10/2025",
+      "marcas":"alquería, codensa, parmalat",
+      "condicionesConservacion":"Refrigeración, entre -1° a 1° C",
+      "responsables": [
+        {
+          "tipoResponsable": 1,
+          "tipoIdentificacion":"CC",
+          "identificacion": 101434561
+        },
+        {
+          "tipoResponsable": 1,
+          "tipoIdentificacion":"CC",
+          "identificacion": 101434561
+        }
+       ]
+    },
+     {
+      "numeroProducto": 1885252552,
+      "numeroRegistro": "123456789012348",
+      "estado": "Vigente",
+      "fechaVencimiento":"10/10/2030",
+      "marcas":"nestlé, nutresa",
+      "condicionesConservacion":"Refrigeración, entre -1° a 1° C",
+      "responsables": [
+        {
+          "tipoResponsable": 1,
+          "tipoIdentificacion":"CC",
+          "identificacion": 101434561
+        },
+        {
+          "tipoResponsable": 1,
+          "tipoIdentificacion":"CC",
+          "identificacion": 101434561
+        }
+       ]
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
