@@ -2,5 +2,16 @@
    "login" : {
      "username": "example1",
      "token": "djjdjdjdjdjd"
+   },
+   
+   "user" : {
+      "username": "",
+      "nombre": "",
+      "apellidos": "",
+      "rol": "",
+      "tienda": "",
+      "estado": "",
+      "activo": "",
+      "bloqueado": ""
    }
 }
