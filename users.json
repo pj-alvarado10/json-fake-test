@@ -1,0 +1,50 @@
+{"Users"
+"users":[
+ {
+  "IdRol": 1,
+  "firstName": "Usuario",
+  "lastName": "Uno",
+  "userName": "Usuario1",
+  "password": "User0001",
+  "storeId": 1,
+  "created_by": 1
+  },
+ {
+  "IdRole": 2,
+  "firstName": "NoAdmin",
+  "lastName": "NoAdmin",
+  "userName": "NoAdmin01",
+  "password": "User0002",
+  "storeId": 0,
+  "created_by": 1
+   },
+ {
+  "IdRole": 3,
+  "firstName": "Maria",
+  "lastName": "Lopez",
+  "userName": "MarLop01",
+  "password": "User0003",
+  "storeId": 0,
+  "created_by": 1
+  },
+ {
+  "IdRole": 4,
+  "firstName": "Juan",
+  "lastName": "Perez",
+  "userName": "JuaPere25",
+  "password": "User0004",
+  "storeId": 0,
+  "created_by": 1
+ },
+ {
+  "IdRole": 5,
+  "firstName": "Leo",
+  "lastName": "Rey",
+  "userName": "LeoRey670",
+  "password": "User00015",
+  "storeId": 0,
+  "row_state": 1,
+  "created_by": 1
+ }
+]
+}

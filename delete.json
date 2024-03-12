@@ -1,0 +1,20 @@
+{"delete"
+"users":[
+  {
+  "id": 11,
+  "idUser":1
+ },
+ {
+  "id": 12,
+  "idUser":1
+  },
+ {
+  "id": 13,
+   "idUser":1
+  },
+ {
+  "idUser": 14,
+   "idUser":1
+ }
+]
+}
