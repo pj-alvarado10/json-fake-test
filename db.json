@@ -3,28 +3,23 @@
     "users": [
       {
         "userName": "Usuario1",
-        "password": "User0001",
-        
+        "password": "User0001"
       },
       {
         "userName": "NoAdmin01",
-        "password": "User0002",
-        
+        "password": "User0002"      
       },
       {
         "userName": "MarLop01",
-        "password": "User0003",
-        
+        "password": "User0003"        
       },
       {
         "userName": "JuaPere25",
-        "password": "User0004",
-        
+        "password": "User0004"
       },
       {
         "userName": "LeoRey670",
-        "password": "User00015",
-        
+        "password": "User00015"        
       }
     ]
   }
