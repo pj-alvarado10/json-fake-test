@@ -1,6 +1,5 @@
 {
- "authenticate": {
-    "users": [
+ "authenticate": [
       {
         "userName": "Usuario1",
         "password": "User0001"
@@ -22,6 +21,5 @@
         "password": "User00015"        
       }
     ]
-  }
 
 }
