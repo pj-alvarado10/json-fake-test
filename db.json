@@ -1,155 +1,158 @@
 {
-   "authenticate" : {
-     "users":[
-          {
-           "userName": "Usuario1",
-           "password": "User0001",
-          },
-          {
-           "userName": "NoAdmin01",
-           "password": "User0002",
-          },
-          {
-           "userName": "MarLop01",
-           "password": "User0003",
-           },
-          {
-           "userName": "JuaPere25",
-           "password": "User0004",
-           },
-          {
-           "userName": "LeoRey670",
-           "password": "User00015",
-          }
-      ]
-   },
-   
-  "delete": {
-         "users":[
-           {
-           "id": 11,
-           "idUser":1
-          },
-          {
-           "id": 12,
-           "idUser":1
-           },
-          {
-           "id": 13,
-            "idUser":1
-           },
-          {
-           "idUser": 14,
-            "idUser":1
-          }
-      ]
+  "authenticate": {
+    "users": [
+      {
+        "userName": "Usuario1",
+        "password": "User0001",
+        
+      },
+      {
+        "userName": "NoAdmin01",
+        "password": "User0002",
+        
+      },
+      {
+        "userName": "MarLop01",
+        "password": "User0003",
+        
+      },
+      {
+        "userName": "JuaPere25",
+        "password": "User0004",
+        
+      },
+      {
+        "userName": "LeoRey670",
+        "password": "User00015",
+        
+      }
+    ]
   },
-
-   "password": {
-         "users":[
-          {
-           "idUser": 11,
-           "currentPassword": "User0011",
-           "newPassword": "User00111",
-           "newPasswordConfirmed": "User00111"
-         }
-         {
-           "idUser": 12,
-           "currentPassword": "Abcdes",
-           "newPassword": "Pss 111",
-           "newPasswordConfirmed": "Pss11111"
-         }
-         {
-           "idUser": 13,
-           "currentPassword": "User0013",
-           "newPassword": "NuevoPss",
-           "newPasswordConfirmed": "NuevoPss"
-         }
-         {
-           "idUser": 14,
-           "currentPassword": "ActualPss01",
-           "newPassword": "NewPss11",
-           "newPasswordConfirmed": "NewPss11"
-         }
-         
-         ]
-     },
-
-
-   "put-password": {
-         "users":[
-          {
-           "idUser": 1,
-           "password": "User0001",
-          },
-          {
-           "idUser": 11,
-           "password": "User0002",
-          },
-          {
-           "idUser": 12,
-           "password": "User0003",
-           },
-          {
-           "idUser": 13,
-           "password": "User0004",
-           },
-          {
-           "idUser": 14,
-           "password": "User00015",
-          }
-      ]
-   },
-
-   "Users": {
-         "users":[
-          {
-           "IdRol": 1,
-           "firstName": "Usuario",
-           "lastName": "Uno",
-           "userName": "Usuario1",
-           "password": "User0001",
-           "storeId": 1,
-           "created_by": 1
-           },
-          {
-           "IdRole": 2,
-           "firstName": "NoAdmin",
-           "lastName": "NoAdmin",
-           "userName": "NoAdmin01",
-           "password": "User0002",
-           "storeId": 0,
-           "created_by": 1
-            },
-          {
-           "IdRole": 3,
-           "firstName": "Maria",
-           "lastName": "Lopez",
-           "userName": "MarLop01",
-           "password": "User0003",
-           "storeId": 0,
-           "created_by": 1
-           },
-          {
-           "IdRole": 4,
-           "firstName": "Juan",
-           "lastName": "Perez",
-           "userName": "JuaPere25",
-           "password": "User0004",
-           "storeId": 0,
-           "created_by": 1
-          },
-          {
-           "IdRole": 5,
-           "firstName": "Leo",
-           "lastName": "Rey",
-           "userName": "LeoRey670",
-           "password": "User00015",
-           "storeId": 0,
-           "row_state": 1,
-           "created_by": 1
-          }
-      ]
-   }
-
+  "delete": {
+    "users": [
+      {
+        "id": 11,
+        "idUser": 1
+      },
+      {
+        "id": 12,
+        "idUser": 1
+      },
+      {
+        "id": 13,
+        "idUser": 1
+      },
+      {
+        "idUser": 14,
+        "idUser": 1
+      }
+    ]
+  },
+  "password": {
+    "users": [
+      {
+        "idUser": 11,
+        "currentPassword": "User0011",
+        "newPassword": "User00111",
+        "newPasswordConfirmed": "User00111"
+      },
+      {
+        "idUser": 12,
+        "currentPassword": "Abcdes",
+        "newPassword": "Pss 111",
+        "newPasswordConfirmed": "Pss11111"
+      },
+      {
+        "idUser": 13,
+        "currentPassword": "User0013",
+        "newPassword": "NuevoPss",
+        "newPasswordConfirmed": "NuevoPss"
+      },
+      {
+        "idUser": 14,
+        "currentPassword": "ActualPss01",
+        "newPassword": "NewPss11",
+        "newPasswordConfirmed": "NewPss11"
+      }
+    ]
+  },
+  "put-password": {
+    "users": [
+      {
+        "idUser": 1,
+        "password": "User0001",
+        
+      },
+      {
+        "idUser": 11,
+        "password": "User0002",
+        
+      },
+      {
+        "idUser": 12,
+        "password": "User0003",
+        
+      },
+      {
+        "idUser": 13,
+        "password": "User0004",
+        
+      },
+      {
+        "idUser": 14,
+        "password": "User00015",
+        
+      }
+    ]
+  },
+  "Users": {
+    "users": [
+      {
+        "IdRol": 1,
+        "firstName": "Usuario",
+        "lastName": "Uno",
+        "userName": "Usuario1",
+        "password": "User0001",
+        "storeId": 1,
+        "created_by": 1
+      },
+      {
+        "IdRole": 2,
+        "firstName": "NoAdmin",
+        "lastName": "NoAdmin",
+        "userName": "NoAdmin01",
+        "password": "User0002",
+        "storeId": 0,
+        "created_by": 1
+      },
+      {
+        "IdRole": 3,
+        "firstName": "Maria",
+        "lastName": "Lopez",
+        "userName": "MarLop01",
+        "password": "User0003",
+        "storeId": 0,
+        "created_by": 1
+      },
+      {
+        "IdRole": 4,
+        "firstName": "Juan",
+        "lastName": "Perez",
+        "userName": "JuaPere25",
+        "password": "User0004",
+        "storeId": 0,
+        "created_by": 1
+      },
+      {
+        "IdRole": 5,
+        "firstName": "Leo",
+        "lastName": "Rey",
+        "userName": "LeoRey670",
+        "password": "User00015",
+        "storeId": 0,
+        "row_state": 1,
+        "created_by": 1
+      }
+    ]
+  }
 }
