@@ -20,6 +20,51 @@
         "userName": "LeoRey670",
         "password": "User00015"        
       }
-    ]
-
+    ],
+    "answers": [
+       {
+          "label": "Negocios, carrera",
+          "point": 8
+       },
+       {
+          "label": "Finanzas y riqueza",
+          "point": 3
+       },
+       {
+          "label": "Salud",
+          "point": 10
+       },
+       {
+          "label": "Ambiente físico",
+          "point": 3
+       },
+       {
+          "label": "Amigos y familia",
+          "point": 4
+       },
+       {
+          "label": "Romance, pareja",
+          "point": 0
+       },
+       {
+          "label": "Relación con el tiempo",
+          "point": 5
+       },
+       {
+          "label": "Personal",
+          "point": 6
+       },
+       {
+          "label": "Diversión",
+          "point": 9
+       },
+       {
+          "label": "Contribución",
+          "point": 7
+       },
+       {
+          "label": "Espiritual",
+          "point": 2
+       }
+     ]
 }
